@@ -45,5 +45,6 @@ jobs:
                 author_email: ${{ github.actor }}@users.noreply.github.com
                 message: "모니터링 파일 저장"
                 add: "."
+                push: true
             env:
                 GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # PAT 사용 (조직 레포지토리 Push 문제 해결)
