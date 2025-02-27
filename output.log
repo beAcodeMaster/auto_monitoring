@@ -1,2 +1,0 @@
-Feb 27, 2025 7:28:19 AM Monitoring getNews
-SEVERE: Illegal character in query at index 55: https://openapi.naver.com/v1/search/news.json?query=오늘의 운동&display=10&start=1&sort=date
